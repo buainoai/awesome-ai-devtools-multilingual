@@ -1,5 +1,5 @@
-> **🌍 Languages / 语言选择:**
-> [English](./README.en.md) | [中文](./README.zh.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [Русский](./README.ru.md)
+> **🌍 语言 / Languages:**
+> [中文](./README.zh.md) | [English](./README.en.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Español](./README.es.md) | [Português](./README.pt.md) | [Русский](./README.ru.md)
 
 # ⚡️🧑‍💻 Awesome AI-Powered Developer Tools
 Dies ist eine kuratierte Liste von KI-gestützten Entwicklertools. Diese Tools nutzen KI, um Entwickler bei Aufgaben wie Code-Vervollständigung, Refactoring, Debugging, Dokumentation und vielem mehr zu unterstützen.

@@ -1,68 +1,72 @@
-# Contributing to Awesome AI Devtools (Multilingual)
+# 贡献指南 / Contributing Guidelines
 
-Thank you for your interest in contributing! This document provides guidelines and instructions for contributing to this project.
+感谢您对本项目的关注！本文档提供了贡献的指南和说明。
 
-## Table of Contents
+Thank you for your interest in contributing! This document provides guidelines and instructions.
 
-- [Adding a New Tool](#adding-a-new-tool)
-- [Improving Translations](#improving-translations)
-- [Adding a New Language](#adding-a-new-language)
-- [Reporting Issues](#reporting-issues)
-- [Pull Request Process](#pull-request-process)
+---
 
-## Adding a New Tool
+## 目录
 
-1. **Fork** this repository and create a new branch
-2. Add the tool to the appropriate category in `i18n/README.en.md` (English version)
-3. Follow this format:
+- [添加新工具](#添加新工具)
+- [改进翻译](#改进翻译)
+- [添加新语言](#添加新语言)
+- [报告问题](#报告问题)
+- [Pull Request 流程](#pull-request-流程)
+
+## 添加新工具
+
+1. **Fork** 本仓库并创建一个新分支
+2. 在 `i18n/README.en.md`（英文版）的适当分类中添加工具
+3. 请遵循以下格式：
    ```markdown
-   - [Tool Name](https://tool-url.com/) — Brief description of the tool and its key features.
+   - [工具名称](https://tool-url.com/) — 工具的简要描述及其主要功能。
    ```
-4. Make sure the tool:
-   - Is AI-powered or AI-enhanced
-   - Is relevant to software development
-   - Has a working website or repository
-   - Is not already listed
-5. Submit a Pull Request
+4. 请确保该工具满足以下条件：
+   - 是 AI 驱动或 AI 增强的工具
+   - 与软件开发相关
+   - 有可用的网站或代码仓库
+   - 尚未被收录
+5. 提交 Pull Request
 
-## Improving Translations
+## 改进翻译
 
-1. Navigate to the `i18n/` directory
-2. Open the file for the language you want to improve (e.g., `README.zh.md` for Chinese)
-3. Make your corrections while following these rules:
-   - Keep tool names, URLs, and technical terms in English
-   - Maintain all Markdown formatting
-   - Ensure the language navigation header remains intact
-4. Submit a Pull Request with a clear description of what was improved
+1. 进入 `i18n/` 目录
+2. 打开您想改进的语言文件（例如 `README.zh.md` 为中文）
+3. 进行修改时请遵循以下规则：
+   - 保留工具名称、URL 和技术术语为英文
+   - 保持所有 Markdown 格式不变
+   - 确保语言导航栏保持完整
+4. 提交 Pull Request，并清楚描述改进了什么
 
-## Adding a New Language
+## 添加新语言
 
-1. Copy `i18n/README.en.md` as your template
-2. Name the file `README.{language-code}.md` (e.g., `README.ar.md` for Arabic)
-3. Add the language navigation header at the top
-4. Translate all section headers and descriptions
-5. Keep tool names, URLs, and technical terms in English
-6. Update the main `README.md` to include the new language
-7. Update the language navigation header in all existing files
-8. Submit a Pull Request
+1. 复制 `i18n/README.en.md` 作为模板
+2. 将文件命名为 `README.{语言代码}.md`（例如 `README.ar.md` 为阿拉伯语）
+3. 在文件顶部添加语言导航栏
+4. 翻译所有章节标题和描述
+5. 保留工具名称、URL 和技术术语为英文
+6. 更新主 `README.md` 以包含新语言
+7. 更新所有现有文件中的语言导航栏
+8. 提交 Pull Request
 
-## Reporting Issues
+## 报告问题
 
-- Use GitHub Issues to report bugs or suggest improvements
-- Include as much detail as possible
-- For translation issues, specify the language and the specific text that needs correction
+- 使用 GitHub Issues 报告错误或建议改进
+- 请提供尽可能多的详细信息
+- 对于翻译问题，请指明语言和需要修正的具体文本
 
-## Pull Request Process
+## Pull Request 流程
 
-1. Ensure your changes follow the existing formatting conventions
-2. Update the main `README.md` if necessary
-3. Your PR will be reviewed by maintainers
-4. Once approved, it will be merged into the main branch
+1. 确保您的更改遵循现有的格式规范
+2. 如有必要，更新主 `README.md`
+3. 您的 PR 将由维护者审查
+4. 一旦批准，将合并到主分支
 
-## Code of Conduct
+## 行为准则
 
-- Be respectful and constructive in all interactions
-- Welcome newcomers and help them get started
-- Focus on what is best for the community
+- 在所有交流中保持尊重和建设性
+- 欢迎新人并帮助他们入门
+- 关注对社区最有利的事情
 
-Thank you for helping make AI developer tools accessible to developers worldwide!
+感谢您帮助全球开发者更好地获取 AI 开发者工具！
