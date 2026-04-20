@@ -30,6 +30,7 @@ Esta é uma lista selecionada de ferramentas de desenvolvimento com IA. Essas fe
 - [Google Antigravity](https://antigravity.google/) — Uma IDE focada em agentes que orquestra agentes de IA autônomos para planejar, executar e verificar tarefas de codificação complexas com profunda integração de navegador.
 - [Crystal](https://github.com/stravu/crystal) — Um novo tipo de ambiente de desenvolvimento para gerenciar, inspecionar e testar sessões paralelas do Claude Code.
 - [Cursor](https://www.cursor.com/) — Uma IDE com recursos de chat, edição, geração e depuração. Bifurcada do VSCodium, então a interface é semelhante ao VS Code. Usa OpenAI.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — Um fork de código aberto do VS Code com chat e geração de código inline.
 - [Melty](https://melty.sh/) — Um fork de código aberto do VS Code com chat integrado, pré-visualizações de alterações e capacidade de escrever commits com IA. Atualmente, apenas o código-fonte está disponível.
 - [Replit](https://replit.com/) — IDE baseada na web com ambientes de desenvolvimento em nuvem, conclusão de código, chat, um agente de desenvolvimento de software e implantações.
