@@ -29,6 +29,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
 - [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
 - [Melty](https://melty.sh/) — An open source fork of VS Code with built in chat, change previews, and ability to write commits with AI. Currently only source code is available.
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
