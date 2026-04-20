@@ -30,6 +30,7 @@
 - [Google Antigravity](https://antigravity.google/) — 一个以代理为先的IDE，它协调自主AI代理，通过深度浏览器集成来规划、执行和验证复杂的编码任务。
 - [Crystal](https://github.com/stravu/crystal) — 一种新型开发环境，用于管理、检查和测试并行 Claude Code 会话。
 - [Cursor](https://www.cursor.com/) — 一个具有聊天、编辑、生成和调试功能的IDE。从VSCodium分支而来，因此界面类似于VS Code。使用OpenAI。
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — VS Code 的开源分支，具有聊天和内联代码生成功能。
 - [Melty](https://melty.sh/) — VS Code 的开源分支，内置聊天、变更预览以及使用AI编写提交的能力。目前仅提供源代码。
 - [Replit](https://replit.com/) — 基于Web的IDE，具有云开发环境、代码补全、聊天、软件开发代理和部署功能。
