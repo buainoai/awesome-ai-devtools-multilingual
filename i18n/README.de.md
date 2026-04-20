@@ -28,6 +28,7 @@ Dies ist eine kuratierte Liste von KI-gestützten Entwicklertools. Diese Tools n
 - [Google Antigravity](https://antigravity.google/) — Eine Agent-First-IDE, die autonome KI-Agenten orchestriert, um komplexe Codierungsaufgaben mit tiefer Browser-Integration zu planen, auszuführen und zu verifizieren.
 - [Crystal](https://github.com/stravu/crystal) — Eine neue Art von Entwicklungsumgebung zur Verwaltung, Inspektion und zum Testen paralleler Claude Code-Sitzungen.
 - [Cursor](https://www.cursor.com/) — Eine IDE mit Chat-, Bearbeitungs-, Generierungs- und Debugging-Funktionen. Abgeleitet von VSCodium, daher ähnelt die Oberfläche VS Code. Verwendet OpenAI.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — Ein Open-Source-Fork von VS Code mit Chat und Inline-Code-Generierung.
 - [Melty](https://melty.sh/) — Ein Open-Source-Fork von VS Code mit integriertem Chat, Änderungs-Vorschauen und der Möglichkeit, Commits mit KI zu schreiben. Derzeit ist nur der Quellcode verfügbar.
 - [Replit](https://replit.com/) — Webbasierte IDE mit Cloud-Entwicklungsumgebungen, Code-Vervollständigung, Chat, einem Softwareentwicklungsagenten und Deployments.
