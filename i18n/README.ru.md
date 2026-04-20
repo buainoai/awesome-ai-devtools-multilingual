@@ -30,6 +30,7 @@
 - [Google Antigravity](https://antigravity.google/) — IDE, ориентированная на агентов, которая организует автономных ИИ-агентов для планирования, выполнения и проверки сложных задач кодирования с глубокой интеграцией с браузером.
 - [Crystal](https://github.com/stravu/crystal) — Новый тип среды разработки для управления, инспектирования и тестирования параллельных сессий Claude Code.
 - [Cursor](https://www.cursor.com/) — IDE с функциями чата, редактирования, генерации и отладки. Форк VSCodium, поэтому интерфейс похож на VS Code. Использует OpenAI.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — Форк VS Code с открытым исходным кодом, с чатом и встроенной генерацией кода.
 - [Melty](https://melty.sh/) — Форк VS Code с открытым исходным кодом, со встроенным чатом, предварительным просмотром изменений и возможностью написания коммитов с помощью ИИ. В настоящее время доступен только исходный код.
 - [Replit](https://replit.com/) — Веб-IDE с облачными средами разработки, автодополнением кода, чатом, агентом разработки программного обеспечения и развертыванием.
