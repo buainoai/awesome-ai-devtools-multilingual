@@ -30,6 +30,7 @@
 - [Google Antigravity](https://antigravity.google/) — 자율 AI 에이전트를 조율하여 복잡한 코딩 작업을 계획, 실행 및 검증하는 에이전트 우선 IDE로, 브라우저와 깊이 통합되어 있습니다.
 - [Crystal](https://github.com/stravu/crystal) — 병렬 Claude Code 세션을 관리, 검사 및 테스트하는 새로운 유형의 개발 환경입니다.
 - [Cursor](https://www.cursor.com/) — 채팅, 편집, 생성 및 디버그 기능을 갖춘 IDE입니다. VSCodium에서 포크되어 VS Code와 유사한 인터페이스를 가지고 있습니다. OpenAI를 사용합니다.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — 채팅 및 인라인 코드 생성을 지원하는 VS Code의 오픈 소스 포크입니다.
 - [Melty](https://melty.sh/) — 내장 채팅, 변경 미리보기, AI로 커밋을 작성하는 기능을 갖춘 VS Code의 오픈 소스 포크입니다. 현재 소스 코드만 제공됩니다.
 - [Replit](https://replit.com/) — 클라우드 개발 환경, 코드 완성, 채팅, 소프트웨어 개발 에이전트 및 배포 기능을 갖춘 웹 기반 IDE입니다.
