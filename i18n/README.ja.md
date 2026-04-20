@@ -30,6 +30,7 @@
 - [Google Antigravity](https://antigravity.google/) — 自律型AIエージェントを編成し、複雑なコーディングタスクを計画、実行、検証するエージェントファーストのIDEで、ブラウザとの深い統合が特徴です。
 - [Crystal](https://github.com/stravu/crystal) — 並行Claude Codeセッションを管理、検査、テストするための新しいタイプの開発環境です。
 - [Cursor](https://www.cursor.com/) — チャット、編集、生成、デバッグ機能を備えたIDEです。VSCodiumからフォークされているため、インターフェースはVS Codeに似ています。OpenAIを使用しています。
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [PearAI](https://trypear.ai/) — チャットとインラインコード生成機能を備えたVS Codeのオープンソースフォークです。
 - [Melty](https://melty.sh/) — チャット、変更プレビュー、AIによるコミット作成機能を内蔵したVS Codeのオープンソースフォークです。現在、ソースコードのみが利用可能です。
 - [Replit](https://replit.com/) — クラウド開発環境、コード補完、チャット、ソフトウェア開発エージェント、デプロイ機能を備えたWebベースのIDEです。
