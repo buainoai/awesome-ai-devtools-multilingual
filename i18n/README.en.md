@@ -19,6 +19,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [UI generators](#ui-generators)
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
+- [Observability](#observability)
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
@@ -247,6 +248,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Observability
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
+- [ax](https://github.com/Necmttn/ax) - Local-first graph for AI coding-agent sessions, tool calls, skills, and spend across Claude Code, Codex, Cursor, OpenCode, and Pi.
 
 ## OpenAI plugins
 
