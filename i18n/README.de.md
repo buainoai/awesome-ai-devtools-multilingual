@@ -259,6 +259,7 @@ Dies ist eine kuratierte Liste von KI-gestützten Entwicklertools. Diese Tools n
 
 ## Testen
 
+- [agent-qa](https://vostride.com) — Testagent von vostride für Web-, Android- und iOS-Anwendungen in natürlicher Sprache, mit persistentem Gedächtnis, validierter Selbstverbesserung sowie CLI- und MCP-Werkzeugen.
 - [Checksum AI](https://checksum.ai) — End-to-End vollständig autonomer QA-Automatisierungsagent, der CI/CD-bereite Playwright-Tests direkt in das Repository generiert.
 - [OctoMind](https://octomind.dev) — Automatische Wartung und generierte browserbasierte End-to-End-Tests, integriert in Github Actions, Azure DevOps und mehr.
 - [Traceloop](https://traceloop.com/) — Verwendet OpenTelemetry-Tracing-Daten mit generativer KI, um die Systemzuverlässigkeit zu verbessern.

@@ -262,6 +262,7 @@ Esta é uma lista selecionada de ferramentas de desenvolvimento com IA. Essas fe
 
 ## Testes
 
+- [agent-qa](https://vostride.com) — Agente da vostride para testar aplicações web, Android e iOS em linguagem natural, com memória persistente, melhorias validadas e ferramentas CLI e MCP.
 - [Checksum AI](https://checksum.ai) — Agente de Automação de QA totalmente autônomo e ponta a ponta que gera testes Playwright prontos para CI/CD diretamente no repositório.
 - [OctoMind](https://octomind.dev) — Manutenção automática e testes end-to-end baseados em navegador gerados, integrados ao Github Actions, Azure DevOps e muito mais.
 - [Traceloop](https://traceloop.com/) — Usa dados de rastreamento OpenTelemetry com IA generativa para melhorar a confiabilidade do sistema.

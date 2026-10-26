@@ -271,6 +271,7 @@
 
 ## 测试
 
+- [agent-qa](https://vostride.com) — vostride 推出的自然语言网页、Android 和 iOS 测试智能体，具备持久记忆与经过验证的自我改进能力，支持 CLI 和 MCP。
 - [Checksum AI](https://checksum.ai) — 端到端全自动QA自动化代理，直接向仓库生成CI/CD就绪的Playwright测试。
 - [OctoMind](https://octomind.dev) — 自动维护和生成的基于浏览器的端到端测试，集成到Github Actions、Azure DevOps等。
 - [Traceloop](https://traceloop.com/) — 使用OpenTelemetry跟踪数据和生成式AI来提高系统可靠性。

@@ -262,6 +262,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Testing
 
+- [agent-qa](https://vostride.com) — Natural-language web, Android, and iOS testing agent by vostride, with persistent memory, validated self-improvement, CLI, and MCP tools.
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.

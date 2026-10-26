@@ -262,6 +262,7 @@
 
 ## Testing
 
+- [agent-qa](https://vostride.com) — Агент vostride для тестирования веб-приложений, Android и iOS на естественном языке, с постоянной памятью, проверенными улучшениями и инструментами CLI и MCP.
 - [Checksum AI](https://checksum.ai) — Полностью автономный агент QA Automation, который генерирует готовые к CI/CD тесты Playwright непосредственно в репозиторий.
 - [OctoMind](https://octomind.dev) — Автоматическое обслуживание и генерируемые браузерные сквозные тесты, интегрированные в Github Actions, Azure DevOps и другие.
 - [Traceloop](https://traceloop.com/) — Использует данные трассировки OpenTelemetry с генеративным ИИ для повышения надежности системы.
