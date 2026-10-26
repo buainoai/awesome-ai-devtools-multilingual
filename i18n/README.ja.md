@@ -262,6 +262,7 @@
 
 ## テスト
 
+- [agent-qa](https://vostride.com) — 自然言語で Web、Android、iOS アプリをテストする vostride のエージェント。永続メモリ、検証済みの自己改善、CLI、MCP ツールを備えています。
 - [Checksum AI](https://checksum.ai) — CI/CD対応のPlaywrightテストをリポジトリに直接生成する、エンドツーエンドの完全自律型QA自動化エージェントです。
 - [OctoMind](https://octomind.dev) — 自動メンテナンスと生成されたブラウザベースのエンドツーエンドテストをGithub Actions、Azure DevOpsなどに統合します。
 - [Traceloop](https://traceloop.com/) — OpenTelemetryトレースデータと生成AIを使用してシステム信頼性を向上させます。
